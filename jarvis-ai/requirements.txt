@@ -1,0 +1,9 @@
+openai>=1.40.0
+edge-tts>=7.0.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+pyautogui>=0.9.54
+keyboard>=0.13.5
+python-dotenv>=1.0.0
+pyperclip>=1.9.0
+psutil>=6.0.0
